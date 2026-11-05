@@ -7,4 +7,4 @@ while(u != x):
     else:
         print("Too high! Try again.")
     u = int(input("Enter your guess:"))
-print(f"Congratulation! {x} is the right number!")
+print(f"Congratulations! {x} is the right number!")
